@@ -66,7 +66,7 @@
 </td></tr></table>  
 
 <br/>  
-
+![Snake animation](https://github.com/felsena/felsena/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me  
 <div align="center">
