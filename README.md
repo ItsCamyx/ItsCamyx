@@ -6,7 +6,7 @@
 ### <div align="center">Eu sou Camila e trabalho full-time com fullstack developer👨‍💻 Trabalho remotamente desde 2019 🚀</div>  
   
 
-🔭 Atualmente trabalho no projeto [Github TechCidadão](https://github.com/ItsCamyx/TechCidadao)  
+🔭 Atualmente trabalho no projeto [Github TechCidadão](https://github.com/TechCidadao/TechCidadao) && Peer Coach Kenzie Academy Brasil 
   
 
 🌱 Estou aprendendo atualmente React Native e NextJS  
