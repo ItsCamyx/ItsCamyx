@@ -6,9 +6,9 @@
 ### <div align="center">Eu sou Camila e trabalho full-time com fullstack developer👨‍💻 Trabalho remotamente desde 2019 🚀</div>  
   
 
-🔭 Atualmente trabalho na MJV Innovation & Technology 
+🔭 Atualmente trabalho na Dialog
 
-🌱 Estou aprendendo atualmente React Native e NextJS  
+🌱 Estou aprendendo atualmente Python
   
 
   
