@@ -8,7 +8,7 @@
 
 🔭 Atualmente trabalho na Dialog
 
-🌱 Estou aprendendo atualmente Python
+🌱 Estou aprendendo atualmente React Native
   
 
   
