@@ -6,7 +6,7 @@
 ### <div align="center">Eu sou Camila e trabalho full-time com fullstack developer👨‍💻 Trabalho remotamente desde 2019 🚀</div>  
   
 
-🔭 Atualmente trabalho na Dialog
+🔭 Atualmente trabalho na ItsCamyx Soluções em Tecnologia
 
 🌱 Estou aprendendo atualmente React Native
   
